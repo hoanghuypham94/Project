@@ -1,0 +1,5 @@
+Cách Chơi:
+
+Tới thời gian chơi server mở để người chơi kết nôi
+Người chơi muốn chơi bắt đầu để kết nối đến server 
+Người chơi trả lời 10 câu đúng liên tiếp không sai câu nào sẽ được thưởng

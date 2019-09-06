@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\bin\Debug\McServer.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\bin\Debug\McServer.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\obj\Debug\McServer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\obj\Debug\McServer.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\obj\Debug\McServer.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\obj\Debug\McServer.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\obj\Debug\McServer.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\McServer\obj\Debug\McServer.pdb

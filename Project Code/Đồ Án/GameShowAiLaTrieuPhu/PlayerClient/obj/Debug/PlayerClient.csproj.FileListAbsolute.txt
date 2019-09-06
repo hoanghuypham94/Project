@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\PlayerClient\bin\Debug\PlayerClient.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\PlayerClient\bin\Debug\PlayerClient.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\PlayerClient\obj\Debug\PlayerClient.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\PlayerClient\obj\Debug\PlayerClient.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\PlayerClient\obj\Debug\PlayerClient.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\PlayerClient\obj\Debug\PlayerClient.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\LTWindow\Tuần 9\Đồ Án\GameShowAiLaTrieuPhu\PlayerClient\obj\Debug\PlayerClient.pdb
